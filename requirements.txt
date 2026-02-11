@@ -1,0 +1,13 @@
+# Core Dependencies
+gradio>=4.0.0
+anthropic>=0.18.0
+python-dotenv>=1.0.0
+
+# Astrology Engine
+kerykeion>=4.0.0
+
+# Data Processing
+pyswisseph>=2.10.0
+
+# Optional but recommended
+typing-extensions>=4.0.0
