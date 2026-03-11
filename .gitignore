@@ -30,7 +30,7 @@ wheels/
 # Output files
 output/
 *.svg
-*.json
+output/*.json
 
 # IDE
 .vscode/
